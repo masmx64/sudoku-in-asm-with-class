@@ -1,0 +1,2 @@
+#define IDB_ALIEN						100
+IDB_SMAC				BITMAP   DISCARDABLE "Res/SMAC.bmp"
